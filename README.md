@@ -11,3 +11,6 @@
 http://www.hbrchina.org/
 
 http://app.hbrchina.org/?app=search&controller=index&action=search&type=all&wd=%E6%95%8F%E6%8D%B7&search.x=0&search.y=0
+
+
+《原则》、《成果管理》、《危机四伏的呼召》和《当我谈跑步时，我谈些什么》
